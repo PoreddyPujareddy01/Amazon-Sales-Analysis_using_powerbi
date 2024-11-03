@@ -56,10 +56,10 @@ Medium).
 
 ### DASHBOARD OVERVIEW :
 #### GRAPHS:
-•Total Cost and Total Revenue by Region: Visual comparison of total cost and
-revenue across different regions.
-•Total Profit by Region: Breakdown of profit figures, providing insights into which
-regions are most profitable.
+##### •Total Cost and Total Revenue by Region: 
+Visual comparison of total cost and revenue across different regions.
+##### •Total Profit by Region:
+Breakdown of profit figures, providing insights into which regions are most profitable.
 •Units Sold by Sales Channel: Displays the distribution of units sold across various
 sales channels (e.g., online, retail).
 •Country with Minimum and Maximum Revenue: Identifies countries with the
