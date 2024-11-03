@@ -37,15 +37,14 @@ Sales management has gained importance to meet increasing competition and the ne
 #### • Total Profit: Total profit earned from the order.
 
 ### DATA CLEANING :
-#### TOOL : Excel
-#### STEPS : 
-##### •Removed duplicates and handled missing values.
-##### •Standardized date formats for consistency.
-##### •Filtered out irrelevant data to focus on meaningful insights.
-##### •Column Manipulation:
-##### •Replaced values in the "Order Priority" column (H -> High, L -> Low, C -> Critical, M ->
-Medium).
-##### •Converted "Order Date" and "Ship Date" from text format to date format.
+### TOOL : Excel
+### STEPS : 
+#### •Removed duplicates and handled missing values.
+#### •Standardized date formats for consistency.
+#### •Filtered out irrelevant data to focus on meaningful insights.
+#### •Column Manipulation:
+#### •Replaced values in the "Order Priority" column (H -> High, L -> Low, C -> Critical, M -> Medium).
+#### •Converted "Order Date" and "Ship Date" from text format to date format.
 
 ### DATA ANALYSIS :
 #### TOOL : Power BI
