@@ -20,7 +20,7 @@ opportunities to drive profitability.
 Sales management has gained importance to meet increasing competition and the need for improved methods of distribution to reduce costs and to increase profits. Sales management today is the most important function in a commercial and business enterprise.
 
 ### DATASET OVERVIEW :
-Columns:
+#### Columns:
 #### • Region: Geographic region where the sales occurred.
 #### • Country: Country where the sales occurred.
 #### • Item Type: Type of item sold.
