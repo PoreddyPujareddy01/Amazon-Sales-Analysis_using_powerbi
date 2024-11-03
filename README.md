@@ -51,7 +51,9 @@ Medium).
 #### TOOL : Power BI
 #### STEPS : 
 **1. Imported cleaned data into Power BI.**
+
 **2 . Developed calculated columns and measures for key metrics.**
+
 **3 . Designed interactive visuals to explore sales trends by region, product category, and time period.**
 
 ### DASHBOARD OVERVIEW :
