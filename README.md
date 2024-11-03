@@ -81,14 +81,20 @@ Shows total profit categorized by different order fulfillment priorities.
 Provides a comprehensive overview of sales trends by both year and month.
 
 #### KEY PERFORMANCE INDICATORS (KPIs):
-##### •Maximum Unit Price: Displays the highest selling price for units sold.
-##### •Minimum Unit Price: Shows the lowest selling price for units sold.
-##### •Total Revenue: Represents the overall income generated from sales.
-##### •Total Profit: Indicates the net profit after deducting costs from revenue.
-##### •Total Cost: Captures the overall expenditure related to sales.
-##### •Sales : Displays the total number of sales 
+##### •Maximum Unit Price: 
+Displays the highest selling price for units sold.
+##### •Minimum Unit Price: 
+Shows the lowest selling price for units sold.
+##### •Total Revenue: 
+Represents the overall income generated from sales.
+##### •Total Profit: 
+Indicates the net profit after deducting costs from revenue.
+##### •Total Cost: 
+Captures the overall expenditure related to sales.
+##### •Sales : 
+Displays the total number of sales 
 
-### DASHBOARD VIDEO :
+### AMAZON SALES PERFORMANCE DASHBOARD :
 https://github.com/user-attachments/assets/c01487f8-6e50-404b-a732-ec5e216b5756
 
 ### KEY FINDINGS :
@@ -103,3 +109,6 @@ Offline sales channels account for 53.97% of total sales, outperforming online s
 The country with the maximum sales is Sao Tome and Principe, with $25,000 in revenue.
 #### 5. Most Sold Items: 
 Cosmetics emerge as the most sold items with 84,000 units sold, driving significant revenue.
+
+### CONCLUSION :
+The Amazon Sales Dashboard provides comprehensive insights into sales performance, profit trends, and regional distribution, enabling data-driven decision-making. By visualizing key metrics such as sales, profit, revenue, and customer behavior, this dashboard highlights areas of strength and identifies opportunities for improvement. The analysis supports strategic initiatives to optimize sales processes and enhance profitability across regions. This tool is essential for monitoring performance, uncovering trends, and aligning sales strategies to meet business objectives effectively.
