@@ -1,5 +1,7 @@
 # Amazon-Sales-Analysis_Using_Powerbi
-## OBJECTIVE : 
+![image](https://github.com/user-attachments/assets/3fe5242b-bfd6-47fd-b34b-b3e6322fa18f)
+
+### OBJECTIVE : 
 The objective of this Amazon Sales Analysis is to identify key sales
 trends and metrics for optimizing business performance.
 ## TOOLS USED : 
