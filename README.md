@@ -86,6 +86,5 @@ both year and month.
 •Total Cost: Captures the overall expenditure related to sales.
 •Sales : Displays the total number of sales 
 
-https://github.com/user-attachments/assets/e2d32dda-5c1b-4837-a9c1-e5cd52d703b8
 
 
